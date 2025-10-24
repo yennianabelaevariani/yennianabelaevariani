@@ -23,7 +23,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: yennianabelaevariani
-          enable_animation: true  # opsional, biar bisa animasi
+          enable_animation: true
+          output_path: ./  # biar filenya ditaruh di root
+          theme: github    # light mode
+          theme_dark: github-dark  # dark mode
 
       - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
