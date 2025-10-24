@@ -4,7 +4,7 @@
 
 
 
-# What I’m Working On
+## What I’m Working On
 
 💻 I’m a passionate **Web Developer in progress**  
 🌱 Currently learning: **React, Laravel, PostgreSQL**  
@@ -12,7 +12,7 @@
 🎯 Motto: *"Code chill, as long as it runs and makes me happy"*  
 
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="left">
   <!-- Frontend -->
@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </p>
 
-### Play Game with me
+## Play Game with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yennianabelaevariani/yennianabelaevariani/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yennianabelaevariani/yennianabelaevariani/output/pacman-contribution-graph.svg">
