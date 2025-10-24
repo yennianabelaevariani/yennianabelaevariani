@@ -4,7 +4,7 @@
 
 
 
-### What I’m Working On
+# What I’m Working On
 
 💻 I’m a passionate **Web Developer in progress**  
 🌱 Currently learning: **React, Laravel, PostgreSQL**  
@@ -12,7 +12,7 @@
 🎯 Motto: *"Code chill, as long as it runs and makes me happy"*  
 
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="left">
   <!-- Frontend -->
